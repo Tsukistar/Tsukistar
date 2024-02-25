@@ -21,7 +21,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=Tsukistar&hide_title=true&hide_border=true&show_icons=true&line_height=21&theme=graywhite&locale=cn"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="" height="180px" src="https://github-readme-stats.vercel.app/api?username=Tsukistar&hide_title=true&hide_border=true&show_icons=true&line_height=21&theme=graywhite&locale=cn" />
+  <img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=Tsukistar&hide_title=true&hide_border=true&show_icons=true&line_height=21&theme=graywhite&locale=cn" />
 </picture>
 
 <picture>
@@ -33,7 +33,7 @@
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsukistar&hide_title=true&hide_border=true&layout=compact&theme=graywhite&locale=cn"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img align="" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsukistar&hide_title=true&hide_border=true&layout=compact&theme=graywhite&locale=cn" />
+  <img align="" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsukistar&hide_title=true&hide_border=true&layout=compact&theme=graywhite&locale=cn" />
 </picture>
 
 <h3 align="center">Languages & Tech Stack</h3>
