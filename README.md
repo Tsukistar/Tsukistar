@@ -39,6 +39,6 @@
 <h3 align="center">Languages & Tech Stack</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,vite,astro,sass,js,ts,nginx,mysql,git,linux" />
+    <img src="https://skillicons.dev/icons?i=vue,vite,astro,sass,js,ts,flask,spring,java,nginx,mysql,git,linux" />
   </a>
 </p>
