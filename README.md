@@ -14,7 +14,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Tsukistar&hide_title=true&hide_border=true&show_icons=true&line_height=21&theme=graywhite&locale=cn"
+    srcset="https://github-readme-stats.vercel.app/api?username=Tsukistar&hide_title=true&hide_border=true&show_icons=true&line_height=21&theme=dark&locale=cn"
     media="(prefers-color-scheme: dark)"
   />
   <source
@@ -26,7 +26,7 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsukistar&hide_title=true&hide_border=true&layout=compact&theme=graywhite&locale=cn"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsukistar&hide_title=true&hide_border=true&layout=compact&theme=dark&locale=cn"
     media="(prefers-color-scheme: dark)"
   />
   <source
