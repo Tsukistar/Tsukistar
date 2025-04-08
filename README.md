@@ -1,13 +1,13 @@
 ### 你好呀，我是月落星河⭐ | Hi I'm Tsukistar⭐
 
-- 💻 一名菜鸡前后端开发者，Astro中文文档、freeCodeCamp简体中文内容译者，不断积累开发经验，筹备第一个自研产品中。
-- 🌱 生命不息，学习不止，不断精进前后端开发、项目管理、数据分析技术中。
+- 💻 一名持续进步、不断前行的全栈开发者，Astro中文文档、freeCodeCamp简体中文内容译者，不断积累开发经验，快速实践自己的每一个想法。
+- 🌱 生命不息，学习不止，不断学习精进前端开发、后端开发、架构设计、项目管理技术中。
 - 🔗 欢迎来<a href="https://blog.tsukistar.cc" target="_blank" rel="noopener">我的博客</a>更多地了解我。
 - 📺 欢迎在<a href="https://tsukistar.xlog.app" target="_blank" rel="noopener">xlog</a>、<a href="https://twitch.tv/tsukistarGlobal" target="_blank" rel="noopener">Twitch</a>、<a href="https://www.youtube.com/channel/UCPkuyPJuuFL7UWue-qtqzFQ" target="_blank" rel="noopener">YouTube</a>, <a href="https://x.com/TsukistarCN" target="_blank" rel="noopener">X</a>, <a href="https://bsky.app/profile/tsukistarcn.bsky.social" target="_blank" rel="noopener">Bluesky</a>上关注我。
 - ✉ 欢迎通过<a href="mailto:business@tsukistar.cc">Email</a>联系我。
 ---
-- 💻 A novice web developer, a translator for Astro's Simplified Chinese document and freeCodeCamp Simplified Chinese content,constantly accumulating development experience and preparing the first self-developed product.
-- 🌱 Where there is life, there is learning. Currently learning Full Stack Development, Project Management, Data Analytics and so on.
+- 💻 A dedicated full-stack developer continuously advancing and moving forward, translator of Astro’s Chinese documentation and freeCodeCamp’s Simplified Chinese content, consistently building development experience while swiftly bringing every idea to life through practice.
+- 🌱 Lifelong learning, relentless growth—constantly honing skills in front-end development, back-end development, architectural design, and project management techniques.
 - 🔗 Welcome to <a href="https://blog.tsukistar.cc" target="_blank" rel="noopener">my blog</a> to learn more about me.
 - 📺 Follow me on <a href="https://tsukistar.xlog.app" target="_blank" rel="noopener">xlog</a>, <a href="https://twitch.tv/tsukistarGlobal" target="_blank" rel="noopener">Twitch</a>, <a href="https://www.youtube.com/channel/UCPkuyPJuuFL7UWue-qtqzFQ" target="_blank" rel="noopener">YouTube</a>, <a href="https://x.com/TsukistarGlobal" target="_blank" rel="noopener">X</a>, <a href="https://bsky.app/profile/tsukistar.bsky.social" target="_blank" rel="noopener">Bluesky</a>.
 - ✉ Talk with me by <a href="mailto:business@tsukistar.cc">Email</a>.
